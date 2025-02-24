@@ -1,93 +1,98 @@
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
-<h1 align="center"> DÉ JÚÑÍÓÚR-𝐌𝐃 </h1>
+#        SNAPDRAGON 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
 
- 
-<h1 align="center"> There's still more People to meet.More opportunities and more chances to try
- Live,learn,apply and chase life like CLINTON 🤍🎉
-</h1>
+   <a>
+                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
+            
+<p align="center"> 
+<up A simple WhatsApp User Bot Coded By SNAPDRAGON 🎈</u>
+</p>
+<p align="center">
+<img src="https://files.catbox.moe/xb17f0.jpg"/>       
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+DRAGON-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SNAPDRAGON🎈+MD+TECHS;RELEASED+DATE+07%2F7%2F2025."                               alt="Typing SVG" /></a>
+</p> 
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-SNAPDRAGON_TECH-red.svg?style=for-the-badge&logo=github"></a>
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/Viniznimco/SNAPDRAGON-JET-MD"><img title="Author" src="https://img.shields.io/badge/SNAPDRAGON-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254704009677"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<p/>
 
-
-
-  <a href="https://ibb.co/N6NMDtn"><img src="https://ibb.co/N6NMDtn" alt="01" border="0" /></a>                     
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
- 
-
-<details>
-<summary>𝐕𝐈𝐄𝐖 𝐋𝐀𝐓𝐄𝐒𝐓 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄👇</summary>
-  
-- 𝐀𝐥𝐥 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐞𝐫𝐫𝐨𝐫𝐬 𝐟𝐢𝐱𝐞𝐝
-- 𝐀𝐧𝐭𝐢𝐜𝐚𝐥𝐥 𝐚𝐝𝐝𝐞𝐝
--𝐀𝐧𝐭𝐢𝐝𝐞𝐥𝐞𝐭𝐞 𝐚𝐝𝐝𝐞𝐝
--𝐀𝐧𝐝 𝐦𝐚𝐧𝐲 𝐦𝐨𝐫𝐞 𝐣𝐮𝐬𝐭 𝐝𝐞𝐩𝐥𝐨𝐲 𝐭𝐡𝐞 𝐛𝐨𝐭 𝐧𝐨𝐰
-
-</details>
-
-
-**👇FORK REPO**
-
-  
-
-<a href="https://github.com/Viniznimco/JUNIOR-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK DÉ JÚÑÍÓÚR" width="150"></a>
-
-
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
- <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
-  <a href="https://junior-lion-md.onrender.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
-
-
-
-###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
-
-
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Viniznimco/JUNIOR-MD&template=https://github.com/Viniznimco/JUNIOR-MD.git)***
-
-<br>
-
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
- 
-
-**𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
-<details>
-<summary>CLICK FOR MORE</summary>
-<a href="https://github.com/Viniznimco/JUNIOR-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
-  
-<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
-</details
-
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
-
-
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
-
-
-
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
-
-## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
-
-**𝗚𝗿𝗼𝘂𝗽**
-- <a href="https://chat.whatsapp.com/KPXrjIleoFbGwdiJcLCK2a" target="_blank">
-    <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ <p align="center">
+  <a href="https://kg-site-support.vercel.app/">
+    <img src="https://img.shields.io/badge/SNAPDRAGON WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
   </a>
+   
+<p align="center">
+<a href="https://github.com/Viniznimco/SNAPDRAGON-JET-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dragonweb/SNAPDRAGON JET-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/Dragonweb/SNAPDRAGON-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/dragonweb/SNAPDRAGON-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Viniznimco/SNAPDRAGON-JET-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/caseyweb/SNAPDRAGON JET-MD?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/dragonweb/SNAPDRAGON-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dragonweb/SNAPDRAGON-MDA/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+        <a href = ""><img alt="SNAPDRAGON Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
+
+### 1. FORK THIS REPO
+
+<a href='https://github.com/Viniznimco/SNAPDRAGON-JET-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<p align="center">
+
+#### 𝐒𝐄𝐓𝐔𝐏
 
 
-**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
-<p align="centre">
-  <a href="https://whatsapp.com/channel/0029Vb3JJ9gKwqSJQJfQvl1K">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
+
+
+  <a href="https://caseypair2.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
+
+
+ ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
+
+   🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
+   
+   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
+
+   ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
+
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Viniznimco/SNAPDRAGON-JET-MD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+
+
+
+
+## CONTACT SNAPDRAGON TECH
   
+<a href="https://wa.me/254704009677"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/Viniznimco/SNAPDRAGON-JET-MD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="SNAPDRAGON "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+</p>
+
 
    
-   <a><img src='https://whatsapp.com/channel/0029Vb3JJ9gKwqSJQJfQvl1K'/></a>
+<a><img src='https://files.catbox.moe/xb17f0.jpg'/>
 
-### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗙𝗔𝗡𝗦
-[![Stargazers repo roster for @SNAPDRAGON/JUNIOR-MD](http://reporoster.com/stars/dark/Snapdragon/JUNIOR-MD)](https://github.com/Viniznimco/JUNIOR-MD/stargazers)
-     
-[![Forkers repo roster for @SNAPDRAGON/JUNIOR-MD](http://reporoster.com/forks/dark/SNAPDRAGON/JUNIOR-MD)](https://github.com/Viniznimco/JUNIOR-MD/network/members)
 
-Enjoy the diverse features of DE JUNIOR-𝐌𝐃  to enhance your Whatsapp more enjoyable
 
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+
+
+<p align="center">
+    <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH">
+        <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+</p>
+
+## SNAPDRAGON SUPPORT 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=SNAPDRAGON MD +MAKE; STAR ⭐+AND+FORKS+BY+SNAPDRAGON MD" alt="Typing SVG" /></a>
+
+
+
+## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
+
+
+ <a href="https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
+ 
+
