@@ -16,7 +16,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Viniznimco/SNAPDRAGON-JET-MD"><img title="Author" src="https://img.shields.io/badge/SNAPDRAGON-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254704009677"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Viniznimco/JUNIOR-MD"><img title="Author" src="https://img.shields.io/badge/SNAPDRAGON-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254704009677"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
  <p align="center">
