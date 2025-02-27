@@ -13,20 +13,20 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         // Generate system status message
-        const status = `╭━━〔 *✦ DÉ ✦ JÚÑÍÓÚR ✦ MD ✦* 〕━━┈⊷
+        const status = `╭━━〔 *✦ SNAPDRAGON ✦ JET ✦ MD ✦* 〕━━┈⊷
 ┃🦄╭─────────────·๏
 ┃🦄┃• *⏳Uptime*:  ${runtime(process.uptime())} 
 ┃🦄┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}GB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}TB
 ┃🦄┃• *⚙️ HostName*: ${os.hostname()}
 ┃🦄┃• *👨‍💻 Owner*: SNAPDRAGON
 ┃🦄┃• *🧬 Version*: 1.0.0
-✦ DE ✦ JUNIOR ✦ MD ✦
+✦ SNAPDRAGON ✦ JET ✦ MD ✦
 ╰──────────────┈⊷
 > © ✦ DE ✦ JUNIOR ✦ MD ✦`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
-            image: { url: `https://files.catbox.moe/v5t4ju.jpg` },  
+            image: { url: `https://files.catbox.moe/xb17f0.jpg` },  
             caption: status,
             contextInfo: {
                 mentionedJid: [m.sender],
@@ -34,7 +34,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363200367779016@newsletter',
-                    newsletterName: 'DE JUNIOR 💗',
+                    newsletterName: 'SNAPDRAGON JET 💓',
                     serverMessageId: 143
                 }
             }
