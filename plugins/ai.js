@@ -8,7 +8,7 @@ const {
 cmd({
   'pattern': 'ai',
   'alias': ["gpt", "bot"],
-  'react': '🧠',
+  'react': '💥',
   'desc': "ai chat.",
   'category': "main",
   'filename': __filename
