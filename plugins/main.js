@@ -234,7 +234,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
+                image: { url: `https://files.catbox.moe/xb17f0.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -242,7 +242,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'DE JUNIOR',
+                        newsletterName: 'SNAPDRAGON',
                         serverMessageId: 143
                     }
                 }
