@@ -100,7 +100,7 @@ console.log("Session downloaded ✅")
   connectToWA()
   }
   } else if (connection === 'open') {
-  console.log('🧬 Installing De Junior Plugins')
+  console.log('🧬 Installing Snapdragon Plugins')
   const path = require('path');
   fs.readdirSync("./plugins/").forEach((plugin) => {
   if (path.extname(plugin).toLowerCase() == ".js") {
@@ -110,7 +110,7 @@ console.log("Session downloaded ✅")
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there ✦ SNAPDRAGON ✦ JET ✦ MD ✦ User! \ud83d\udc4b\ud83c\udffb* \n\n> This is auser friendly whatsapp bot created by Snapdragon \ud83c\udf8a, Thanks to  SNAPDRAGON 🙏 WhatsApp Bot.\n\n *Thanks for using ✦ SNAPDRAGON JET ✦ MD ✦ \ud83d\udea9* \n\n> follow WhatsApp Channel :- 💥\n \nhttps://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Viniznimco/JUNIOR-MD\n\n> © Powered BY ✦ Snapdragon ✦ DÉ JÚÑÍÓÚR✦ MD ✦ \ud83d\udda4`;
+  let up = `*Hello there ✦ SNAPDRAGON ✦ JET ✦ MD ✦ User! \ud83d\udc4b\ud83c\udffb* \n\n> This is auser friendly whatsapp bot created by Snapdragon \ud83c\udf8a, Thanks to  SNAPDRAGON TECH 🙏.\n\n *Thanks for using ✦ SNAPDRAGON JET ✦ MD ✦ \ud83d\udea9* \n\n> follow WhatsApp Channel :- 💥\n \nhttps://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Viniznimco/SNAPDRAGON-JET-MD\n\n> © Powered BY ✦ Snapdragon ✦ SNAPDRAGON JET✦ MD ✦ \ud83d\udda4`;
   conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/v5t4ju.jpg` }, caption: up })
   }
   })
@@ -528,7 +528,7 @@ console.log("Session downloaded ✅")
   
   if(senderNumber.includes("254704009677")){
   if(isReact) return
-  m.react("🦄")
+  m.react("✈️")
   }
   
   //==========public react============//
@@ -612,7 +612,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("DE JUNIOR RUNNING ✅");
+  res.send("SNAPDRAGON RUNNING ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
