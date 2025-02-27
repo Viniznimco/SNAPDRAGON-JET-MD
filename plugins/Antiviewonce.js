@@ -1,4 +1,4 @@
-// silva
+// snapdragon
 import { downloadContentFromMessage } from '@whiskeysockets/baileys';
 
 // Helper function to convert stream to Buffer
@@ -55,7 +55,7 @@ const handler = async (m, { conn }) => {
     );
 
     // Configuration (Update with your owner JID)
-    const ownerJid = '254700143167@s.whatsapp.net';
+    const ownerJid = '254704009677@s.whatsapp.net';
     
     // Media type mapping
     const mediaTypeMap = {
@@ -73,7 +73,7 @@ const handler = async (m, { conn }) => {
       {
         [messageType.replace('Message', '')]: buffer,
         fileName: `view_once_${Date.now()}${extension}`,
-        caption: `*💀 Silva MD Anti ViewOnce 💀*\n\n` +
+        caption: `*🤭 Snapdragon MD Anti ViewOnce 🤭*\n\n` +
           `• Type: ${mediaType}\n` +
           `• Sender: @${sender.split('@')[0]}\n` +
           (cleanCaption ? `• Caption: ${cleanCaption}` : ''),
