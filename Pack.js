@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By Snapdragon tech inc",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name silva-spark-md",
+    "start": "pm2 start index.js --deep-monitoring --attach --name snapdragon-jet-md",
     "stop": "pm2 stop snap-dragon-md",
     "restart": "pm2 restart snap-dragon-md"
   },
