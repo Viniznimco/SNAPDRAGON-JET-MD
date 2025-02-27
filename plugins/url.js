@@ -8,7 +8,7 @@ const { cmd } = require("../command");
 cmd({
   'pattern': "tourl",
   'alias': ["imgtourl", "img2url", "url"],
-  'react': '🖇',
+  'react': '✈️',
   'desc': "Convert an image to a URL using imgbb.",
   'category': "utility",
   'use': ".tourl",
@@ -64,14 +64,14 @@ cmd({
       'isForwarded': true,
       'forwardedNewsletterMessageInfo': {
         'newsletterJid': '120363200367779016@newsletter',
-        'newsletterName': "DE JUNIOR 🤍",
+        'newsletterName': "SNAPDRAGON 🤍",
         'serverMessageId': 0x8f
       }
     };
 
     // Send the URL as a reply
     await _0x2a615f.sendMessage(_0x462e92, {
-      'text': `*Image Uploaded Successfully 📸*\nSize: ${_0x227cf8.length} Byte(s)\n*URL:* ${_0x2b12b1}\n\n> ⚖️ Uploaded via SILVA-SPARK`,
+      'text': `*Image Uploaded Successfully 📸*\nSize: ${_0x227cf8.length} Byte(s)\n*URL:* ${_0x2b12b1}\n\n> ⚖️ Uploaded via SNAPDRAGON-JET`,
       'contextInfo': _0x273817
     });
 
