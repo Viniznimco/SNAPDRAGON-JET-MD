@@ -52,11 +52,11 @@ cmd({
     const _0x2e869c = await _0x13d51a.json();
     if (_0x2e869c.code) {
       const _0x25f740 = _0x2e869c.code;
-      const _0xeea95a = "*⚡Pairing Code For DE JUNIOR 🗿*\n\n🪀 notification has been sent to your WhatsApp. Please check your phone and copy this code to pair it and get your *DE JUNIOR ＭＤ* session id.\n\n*🔢 Pairing Code* : *" + _0x25f740 + "*\n\n> *_Copy it from below message 👇🏻_*";
+      const _0xeea95a = "*⚡Pairing Code For SNAPDRAGON JET 💓*\n\n🪀 notification has been sent to your WhatsApp. Please check your phone and copy this code to pair it and get your *SNAPDRAGON JET ＭＤ* session id.\n\n*🔢 Pairing Code* : *" + _0x25f740 + "*\n\n> *_Copy it from below message 👇🏻_*";
       try {
         await _0x3f368b.sendMessage(_0x2fe294.key.remoteJid || _0x2fe294.from, {
           'image': {
-            'url': "https://i.imgur.com/PEZ5QL2.jpeg"
+            'url': "https://files.catbox.moe/xb17f0.jpg"
           },
           'caption': _0xeea95a
         }, {
@@ -90,10 +90,10 @@ cmd({
 cmd({
   'pattern': "pair2",
   'alias': ['getpair2', "clonebot"],
-  'react': '🎉',
+  'react': '✈️',
   'desc': "Pairing code",
   'category': "download",
-  'use': ".pair +254700143167",
+  'use': ".pair +254704009677",
   'filename': __filename
 }, async (_0x164b72, _0x230a02, _0x1c5313, {
   from: _0x451058,
@@ -105,7 +105,7 @@ cmd({
   try {
     const _0x566978 = _0xf64dd8 => new Promise(_0x1495bd => setTimeout(_0x1495bd, _0xf64dd8));
     if (!_0x4de0bb) {
-      return await _0x50e2bb("*Example -* .pair 25478005430");
+      return await _0x50e2bb("*Example -* .pair 254704009677");
     }
     const _0x5aa4f0 = require('node-fetch');
     const _0x3a87c7 = await _0x5aa4f0('https://session-id.dejuniorinc.my.id/pair?phone=' + _0x4de0bb);
@@ -114,7 +114,7 @@ cmd({
       return await _0x50e2bb("Failed to retrieve pairing code. Please check the phone number and try again.");
     }
     const _0x27dff2 = _0x15aa92.code;
-    await _0x50e2bb("> *DE JUNIOR ＭＤ PAIR COMPLETED*\n\n*Your pairing code is:* " + _0x27dff2);
+    await _0x50e2bb("> *SNAPDRAGON JET ＭＤ PAIR COMPLETED*\n\n*Your pairing code is:* " + _0x27dff2);
     await _0x566978(0x7d0);
     await _0x50e2bb('' + _0x27dff2);
   } catch (_0x53bf58) {
