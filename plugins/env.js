@@ -13,13 +13,13 @@ cmd({
     alias: ["setting", "allvar"],
     desc: "Settings of bot",
     category: "menu",
-    react: "⤵️",
+    react: "✈️",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭〔 *【ＳＩＬＶＡ】💥ＳＰＡＲＫ💥【ＭＤ】* 〕⊷
+        let envSettings = `╭〔 *【SNAPDRAGON】💥JET💥【ＭＤ】* 〕⊷
 ┃▸╭───────────
 ┃▸┃๏ *ENV SETTINGS 🗿*
 ┃▸└───────────···๏
@@ -48,7 +48,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: 'https://i.imgur.com/PEZ5QL2.jpeg' }, // Image URL
+                image: { url: 'https://files.catbox.moe/xb17f0.jpg' }, // Image URL
                 caption: envSettings,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -56,7 +56,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: "THE JUNIOR MD 🥰",
+                        newsletterName: "THE SNAPDRAGON JET MD 🥰",
                         serverMessageId: 143
                     }
                 }
