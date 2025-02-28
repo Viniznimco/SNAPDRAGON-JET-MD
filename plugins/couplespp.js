@@ -6,7 +6,7 @@ const axios = require('axios');
 cmd({
   'pattern': "couplepp",
   'alias': ["couple", "cpp"],
-  'react': '💑',
+  'react': '👭',
   'desc': "Get a male and female couple profile picture.",
   'category': "image",
   'use': ".couplepp",
@@ -17,7 +17,7 @@ cmd({
   reply: _0x30d3fc
 }) => {
   try {
-    _0x30d3fc("*DE JUNIOR IS 💑 Fetching couple profile pictures...*");
+    _0x30d3fc("*SNAPDRAGON JET IS 👭 Fetching couple profile pictures...*");
     const _0x173643 = await axios.get("https://api.davidcyriltech.my.id/couplepp");
     if (!_0x173643.data || !_0x173643.data.success) {
       return _0x30d3fc("❌ Failed to fetch couple profile pictures. Please try again later.");
@@ -29,7 +29,7 @@ cmd({
         'image': {
           'url': _0x5d4b91
         },
-        'caption': "DE JUNIOR SUGGESTS: 👨 Male Couple Profile Picture"
+        'caption': "SNAPDRAGON SUGGESTS: 👨 Male Couple Profile Picture"
       }, {
         'quoted': _0x51cf3f
       });
@@ -39,7 +39,7 @@ cmd({
         'image': {
           'url': _0x5a1e4a
         },
-        'caption': "DE JUNIOR SUGGESTS: 👩 Female Couple Profile Picture"
+        'caption': "SNAPDRAGON JET SUGGESTS: 👩 Female Couple Profile Picture"
       }, {
         'quoted': _0x51cf3f
       });
