@@ -39,7 +39,7 @@ cmd({
         'image': {
           'url': _0x5a1e4a
         },
-        'caption': "SNAPDRAGON JET SUGGESTS: 👩 Female Couple Profile Picture"
+        'caption': "SNAPDRAGON JET SUGGESTS: 🤱 Female Couple Profile Picture"
       }, {
         'quoted': _0x51cf3f
       });
