@@ -4,7 +4,7 @@ const {
 cmd({
   'pattern': "leave",
   'alias': ['left', 'l'],
-  'react': '🔐',
+  'react': '⚙️',
   'desc': "Remove all members with a specific country code from the group",
   'category': 'owner',
   'filename': __filename
