@@ -52,7 +52,7 @@ cmd({
       }
     }
   } catch (_0x56bda5) {
-    console.error("De Junior 𝕄𝔻 Error in TikTok command:", _0x56bda5);
-    _0x2303a0("De Junior 𝕄𝔻 An error occurred while processing your request. Please try again later.");
+    console.error("SNAPDRAGON JET 𝕄𝔻 Error in TikTok command:", _0x56bda5);
+    _0x2303a0("SNAPDRAGON JET 𝕄𝔻 An error occurred while processing your request. Please try again later.");
   }
 });
