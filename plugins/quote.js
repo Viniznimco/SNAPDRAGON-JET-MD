@@ -6,7 +6,7 @@ cmd({
   'pattern': "quote",
   'desc': "Get a random inspiring quote.",
   'category': "fun",
-  'react': '💬',
+  'react': '✈️',
   'filename': __filename
 }, async (_0x237929, _0x10ef1c, _0x304915, {
   from: _0x24aa1d,
