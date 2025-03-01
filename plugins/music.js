@@ -17,7 +17,7 @@ cmd({
     return reply("Please provide a title or link (Spotify/YouTube)!");
   }
 
-  reply("💎 DE JUNIOR MD 💎 Fetching audio... 🎧");
+  reply("💗 SNAPDRAGON JET MD 💗 Fetching audio... 🎧");
 
   let spotifySent = false;
   let youtubeSent = false;
@@ -43,7 +43,7 @@ cmd({
           contextInfo: {
             externalAdReply: {
               title: spotifyTrack.title,
-              body: "💎 DE JUNIOR MD 💎 🥰💖: SPOTIFY",
+              body: "💗 SNAPDRAGON JET MD 💓 ✈️💖: SPOTIFY",
               mediaType: 1,
               sourceUrl: spotifyTrack.url,
               renderLargerThumbnail: true
@@ -76,7 +76,7 @@ cmd({
           contextInfo: {
             externalAdReply: {
               title: youtubeVideo.title,
-              body: "💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎🥰: YOUTUBE",
+              body: "💓 SNAPDRAGON JET MD 💗✈️: YOUTUBE",
               mediaType: 1,
               sourceUrl: youtubeVideo.url,
               renderLargerThumbnail: true
@@ -99,8 +99,8 @@ cmd({
   } else if (spotifySent && youtubeSent) {
     reply("Both Spotify and YouTube audio sent successfully.");
   } else if (spotifySent) {
-    reply("💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎: Spotify audio sent successfully.");
+    reply("💓 SNAPDRAGON JET MD 💓: Spotify audio sent successfully.");
   } else if (youtubeSent) {
-    reply("💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎: YouTube audio sent successfully.");
+    reply("💗 SNAPDRAGON JET MD 💓: YouTube audio sent successfully.");
   }
 });
