@@ -11,7 +11,7 @@ const axios = require("axios");
 cmd({
   'pattern': 'video3',
   'alias': ["ytvid3", 'ytv3', 'ytvideo3'],
-  'react': '🔄',
+  'react': '🔊',
   'desc': "Download videos from YouTube by searching for keywords.",
   'category': "video",
   'use': ".vidx <keywords>",
@@ -26,7 +26,7 @@ cmd({
     if (!_0x501cea) {
       return _0x1967fe("*Please provide a video tital or url*");
     }
-    _0x1967fe("> © DÉ JÚÑÍÓÚR ᴍᴅ  Sᴇɴᴅɪɴɢ Yᴏᴜʀ ᴠɪᴅᴇᴏ Wᴀɪᴛ...🫅 ");
+    _0x1967fe("> © SNAPDRAGON JET ᴍᴅ  Sᴇɴᴅɪɴɢ Yᴏᴜʀ ᴠɪᴅᴇᴏ Wᴀɪᴛ...🫅 ");
     const _0x1ce220 = await yts(_0x501cea);
     if (!_0x1ce220.videos || _0x1ce220.videos.length === 0x0) {
       return _0x1967fe("❌ No results found for \"" + _0x501cea + "\".");
@@ -57,7 +57,7 @@ cmd({
 cmd({
   'pattern': 'play',
   'alias': ["song3", 'ytplay3'],
-  'react': '🔄',
+  'react': '🎼',
   'desc': "Download audio from YouTube by searching for keywords.",
   'category': "music",
   'use': ".playx <keywords>",
@@ -72,7 +72,7 @@ cmd({
     if (!_0x316468) {
       return _0xd2fbaa("*Please provide a audio tital or url*");
     }
-    _0xd2fbaa("> © DÉ JÚÑÍÓÚR ᴍᴅ  Sᴇɴᴅɪɴɢ Yᴏᴜʀ Sᴏɴɢ Wᴀɪᴛ...❄️");
+    _0xd2fbaa("> © SNAPDRAGON JET ᴍᴅ  Sᴇɴᴅɪɴɢ Yᴏᴜʀ Sᴏɴɢ Wᴀɪᴛ...❄️");
     const _0x2644f6 = await yts(_0x316468);
     if (!_0x2644f6.videos || _0x2644f6.videos.length === 0x0) {
       return _0xd2fbaa("❌ No results found for \"" + _0x316468 + "\".");
