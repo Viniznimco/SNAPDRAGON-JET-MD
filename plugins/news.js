@@ -5,7 +5,7 @@ cmd({
     pattern: "news",
     desc: "Get the latest news headlines.",
     category: "news",
-    react: "📰",
+    react: "🌐",
     filename: __filename
 },
 async (conn, mek, m, { from, reply }) => {
@@ -24,7 +24,7 @@ async (conn, mek, m, { from, reply }) => {
 ⚠️ _${article.description}_
 🔗 _${article.url}_
 
-  ©⎈ DE JUNIOR мᎠ ⎈
+  ©💓 SNAPDRAGON JET мᎠ 💓
             `;
 
             console.log('Article URL:', article.urlToImage); // Log image URL for debugging
