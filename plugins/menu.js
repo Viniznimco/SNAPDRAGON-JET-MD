@@ -8,12 +8,12 @@ cmd({
     pattern: "menu",
     desc: "menu the bot",
     category: "menu",
-    react: "💖",
+    react: "✈️",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━━〔 *✦ DE ✦ JUNIOR ✦ MD ✦* 〕━━━┈⊷
+        let dec = `╭━━━〔 *✦ SNAPDRAGON ✦ JET ✦ MD ✦* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ Owner : *${config.OWNER_NAME}*
 ┃★│ Baileys : *Multi Device*
@@ -46,7 +46,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
+                image: { url: `https://files.catbox.moe/xb17f0.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -54,7 +54,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'DE JUNIOR MD 💖🦄',
+                        newsletterName: 'SNAPDRAGON JET MD ✈️🛩️',
                         serverMessageId: 143
                     }
                 }
@@ -64,7 +64,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/a1sh4u.mp3' },
+            audio: { url: 'https://files.catbox.moe/v0d5hr.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
@@ -82,7 +82,7 @@ cmd({
     pattern: "dlmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "💚",
+    react: "🚁",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -128,7 +128,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'DE JUNIOR 💖🦄',
+                        newsletterName: 'SNAPDRAGON JET ✈️🛩️',
                         serverMessageId: 143
                     }
                 }
@@ -148,7 +148,7 @@ cmd({
     pattern: "groupmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "🥰",
+    react: "🛫",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -198,7 +198,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
+                image: { url: `https://files.catbox.moe/xb17f0.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -206,7 +206,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'DE JUNIOR 💖🦄',
+                        newsletterName: 'SNAPDRAGON JET ✈️🛩️',
                         serverMessageId: 143
                     }
                 }
@@ -226,7 +226,7 @@ cmd({
     pattern: "funmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "😎",
+    react: "🤓",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -263,7 +263,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
+                image: { url: `https://files.catbox.moe/xb17f0.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -271,7 +271,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'DE JUNIOR MD 💖🦄',
+                        newsletterName: 'SNAPDRAGON JET MD ✈️🛩️',
                         serverMessageId: 143
                     }
                 }
@@ -291,7 +291,7 @@ cmd({
     pattern: "othermenu",
     desc: "menu the bot",
     category: "menu",
-    react: "🤖",
+    react: "🚁",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -330,7 +330,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'DE JUNIOR MD 💖🦄',
+                        newsletterName: 'SNAPDRAGON JET MD 🛩️✈️',
                         serverMessageId: 143
                     }
                 }
@@ -350,7 +350,7 @@ cmd({
     pattern: "mainmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "🗿",
+    react: "✈️",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -374,7 +374,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-               image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
+               image: { url: `https://files.catbox.moe/xb17f0.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -382,7 +382,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'DE JUNIOR MD 💖🦄',
+                        newsletterName: 'SNAPDRAGON JET MD ✈️🛩️',
                         serverMessageId: 143
                     }
                 }
@@ -402,7 +402,7 @@ cmd({
     pattern: "ownermenu",
     desc: "menu the bot",
     category: "menu",
-    react: "🔰",
+    react: "💗",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -433,7 +433,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
+                image: { url: `https://files.catbox.moe/xb17f0.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -441,7 +441,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'DE JUNIOR MD 💖🦄',
+                        newsletterName: 'SNAPDRAGON JET MD ✈️🛩️',
                         serverMessageId: 143
                     }
                 }
@@ -461,7 +461,7 @@ cmd({
     pattern: "convertmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "🥀",
+    react: "🚀",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -482,7 +482,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
+                image: { url: `https://files.catbox.moe/xb17f0.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -490,7 +490,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'DE JUNIOR MD 💖🦄',
+                        newsletterName: 'SNAPDRAGON JET MD 🛩️✈️',
                         serverMessageId: 143
                     }
                 }
@@ -511,7 +511,7 @@ cmd({
     pattern: "animemenu",
     desc: "menu the bot",
     category: "menu",
-    react: "🧚",
+    react: "🛫",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -551,7 +551,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
+                image: { url: `https://files.catbox.moe/xb17f0.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -559,7 +559,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'DE JUNIOR MD 💖🦄',
+                        newsletterName: 'SNAPDRAGON JET MD 🛩️✈️',
                         serverMessageId: 143
                     }
                 }
@@ -601,7 +601,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
+                image: { url: `https://files.catbox.moe/xb17f0.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -609,7 +609,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'DE JUNIOR MD 💖🦄',
+                        newsletterName: 'SNAPDRAGON JET MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
