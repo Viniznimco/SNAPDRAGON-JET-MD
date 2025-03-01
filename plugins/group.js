@@ -100,7 +100,7 @@ cmd(_0x485005, async (_0x49ae26, _0xcdfa27, _0x2d27f9, {
 });
 const _0x3bcce0 = {
   'pattern': "disappear",
-  'react': "🌪️",
+  'react': "😄",
   'alias': ['dm'],
   'desc': "Turn on/off disappearing messages.",
   'category': "main",
