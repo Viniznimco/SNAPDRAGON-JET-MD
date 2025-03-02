@@ -4,14 +4,14 @@ const { cmd } = require('../command');
 
 cmd({
     pattern: "update",
-    react: "🦄",
+    react: "✈️",
     desc: "Update the repository from GitHub",
     category: "system",
     use: ".update",
     filename: __filename,
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const repoUrl = 'https://github.com/Viniznimco/JUNIOR-MD/tree/main'; // GitHub repository URL
+        const repoUrl = 'https://github.com/Viniznimco/SNAPDRAGON-JET-MD'; // GitHub repository URL
         const targetFolder = 'plugins'; // Local folder for the repo
 
         // Ensure the target folder exists
@@ -38,7 +38,7 @@ cmd({
         // Send a success message with the output
         await conn.sendMessage(
             from,
-            { text: `*✅ DE JUNIOR Update completed successfully!*\n\n\`\`\`${output}\`\`\`` },
+            { text: `*✈️ SNAPDRAGON JET Update completed successfully!*\n\n\`\`\`${output}\`\`\`` },
             { quoted: mek }
         );
     } catch (error) {
