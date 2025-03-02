@@ -5,7 +5,7 @@ const { cmd, commands } = require('../command');
 // Define the updatecmd command
 cmd({
   pattern: 'updatecmd',
-  react: '🧞',
+  react: '🔁',
   desc: 'Update commands.',
   category: 'owner',
   filename: __filename,
