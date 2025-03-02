@@ -9,7 +9,7 @@ let handler = async (m, { conn }) => {
   // Validate group size
   const participants = groupMetadata.participants || [];
   if (participants.length < 2) {
-    return m.reply('The group must have at least 2 members.');
+    return m.reply('The group must have at least 3 members.');
   }
   if (participants.length > 1000) {
     return m.reply('The group has more than 1000 members.');
