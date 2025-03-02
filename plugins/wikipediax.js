@@ -31,7 +31,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 🔗 *URL*: ${summary.content_urls.desktop.page}
 
-> @ Powdered By Silva sPARK `;
+> @ Powdered By Snapdragon JET `;
 
         // Send the reply with the thumbnail image
         await conn.sendMessage(from, { image: { url: summary.originalimage.source }, caption: replyText }, { quoted: mek });
