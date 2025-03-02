@@ -48,7 +48,7 @@ cmd({
 
             let sticker = new Sticker(nameWebp, {
                 pack: pushname, // The pack name
-                author: 'de junior', // The author name
+                author: 'Snapdragon', // The author name
                 type: q.includes('--crop') || q.includes('-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
                 categories: ['🤩', '🎉'], // The sticker category
                 id: '12345', // The sticker id
