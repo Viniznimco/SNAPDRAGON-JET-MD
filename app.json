@@ -1,7 +1,7 @@
 {
-  "name": "de-junior-md",
-  "description": "Javascript WhatsApp bot made by Silva",
-  "keywords": ["de-junior-md"],
+  "name": "SNAPDRAGON-JET-MD",
+  "description": "Javascript WhatsApp bot made by Snapdragon",
+  "keywords": ["snapdragon-jet-md"],
   "success_url": "/",
 
     "stack": "container",
@@ -15,13 +15,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/v5t4ju.jpg"
+      "value": "https://files.catbox.moe/xb17f0.jpg"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> DE JUNIOR IS RUNNING ACTIVE AND ALIVE⚡"
+      "value": "> SNAPDRAGON JET IS RUNNING ACTIVE AND ALIVE✈️"
     },
     
     "PREFIX": {
@@ -78,13 +78,13 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 Seen by De Junior MD 🚀🔥*"
+      "value": "*✈️😅 Viewed and liked by SNAPDRAGON JET MD 🛩️💓*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "De Junior"
+      "value": "Snapdragon Jet"
 }, 
 
     "OWNER_NUMBER": {
@@ -97,7 +97,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ De ✦ Junior ✦ MD ✦"
+      "value": "🛩️SNAPDRAGON ✈️ JET 🛫 MD "
 
       }, 
 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✦ De ✦ Junior ✦ MD ✦*"
+      "value": "*© ✈️ SNAPDRAGON 🛩️ JET 🛫 MD 🚀*"
     },
 
       "DELETE_LINKS": {
@@ -161,7 +161,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍"
+      "value": "🚀,🛩️,🛫,✈️,❤️‍🩹,😅,🩷,🫣,💛,😂,💙,🫵,🫦,🤎,🤙,✊,🤍"
     }, 
 
 
