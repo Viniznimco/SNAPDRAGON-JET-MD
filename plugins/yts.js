@@ -17,7 +17,7 @@ cmd({
   'pattern': "yts",
   'alias': ['ytsearch'],
   'use': ".yts jawad bahi",
-  'react': '🎶',
+  'react': '🎼',
   'desc': "Search and get details from youtube.",
   'category': 'search',
   'filename': __filename
