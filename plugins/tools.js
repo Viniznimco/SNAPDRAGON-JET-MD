@@ -7,7 +7,7 @@ cmd({
     pattern: "ship",
     alias: ["cup", "love"],
     desc: "Randomly pairs the command user with another group member.",
-    react: "❤️",
+    react: "✈️",
     category: "fun",
     filename: __filename,
 }, 
@@ -46,7 +46,7 @@ async (conn, mek, m, { from, isGroup, groupMetadata, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363200367779016@newsletter',
-                    newsletterName: 'JUNIOR TECH INC',
+                    newsletterName: 'SNAPDRAGON TECH INC',
                     serverMessageId: 143,
                 },
             },
@@ -167,7 +167,7 @@ cmd({
     let fontResults = data.result.map(font => '*' + font.name + ":*\n" + font.result).join("\n\n");
     
     // Message formatting
-    let message = `*SILVA SPARK FANCY FONTS*:\n\n${fontResults}\n\n> *BY SILVA SPARK*`;
+    let message = `*SNAPDRAGON JET FANTASTIC FONTS*:\n\n${fontResults}\n\n> *BY SNAPDRAGON JET*`;
 
     // Sending the message with context info
     await conn.sendMessage(
@@ -180,7 +180,7 @@ cmd({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363200367779016@newsletter',
-            newsletterName: 'DE JUNIOR',
+            newsletterName: 'SNAPDRAGON JET',
             serverMessageId: 143
           }
         }
