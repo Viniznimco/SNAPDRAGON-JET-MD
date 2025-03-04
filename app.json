@@ -1,21 +1,21 @@
 {
-  "name": "𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓",
+  "name": "𝐒NAPDRAGON JET 𝐌𝐃 𝐁𝐎𝐓",
   "description": " with great power comes with great responsibilities. follow the deployment process below..",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/SilvaTechB/silva-md-bot",
+  "repository": "https://github.com/Viniznimco/SNAPDRAGON-JET-MD",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254743706010;𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓"
+      "value": "254704009677;𝐒NAPDRAGON JET 𝐌𝐃 𝐁𝐎𝐓"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "SILVA-MD-BOT©®"
+      "value": "SNAPDRAGON-MD-BOT©®"
     },
     "SESSION_ID": {
       "description": "your session id. get session here https://silva-session-selector.vercel.app/",
@@ -60,7 +60,7 @@
     "AUTO_STATUS_LIKE_EMOJI": {
       "description": "customize to any emoji you need 💚",
       "required": false,
-      "value": "🦋"
+      "value": "✈️"
        },
     "STATUS_REPLY": {
       "description": "make it true or false. true to activate false to deactivate",
@@ -70,7 +70,7 @@
     "STATUS_MSG": {
       "description": "custmize with your message",
       "required": false,
-      "value": "SILVA MD BOT SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
+      "value": "SNAPDRAGON JET MD BOT SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
