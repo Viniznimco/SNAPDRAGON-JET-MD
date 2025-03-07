@@ -1,8 +1,8 @@
 {
-    "name": "SILVA MD",
+    "name": "SNAPDRAGON JET MD",
     "version": "3.0.0",
     "description": "Advanced WhatsApp",
-    "main": "silva.js",
+    "main": "snapdragon.js",
     "type": "module",
     "directories": {
         "lib": "lib",
