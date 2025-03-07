@@ -13,8 +13,8 @@
         "node": ">=20.0.0"
     },
     "scripts": {
-        "start": "node silva.js",
-        "test": "node silvamd.js"
+        "start": "node snapdragon.js",
+        "test": "node snapragonmd.js"
     },
     "keywords": [
         "termux-whatsapp-bot",
