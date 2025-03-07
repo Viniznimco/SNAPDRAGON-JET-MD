@@ -28,16 +28,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/SilvaTechB/silva-md-bot",
+    "homepage": "https://github.com/Viniznimco/SNAPDRAGON-JET-MD-bot",
     "author": {
         "name": "GURU"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/SilvaTechB/silva-md-bot.git"
+        "url": "git+https://github.com/Viniznimco/SNAPDRAGON-JET-MD-bot.git"
     },
     "bugs": {
-        "url": "https://github.com/SilvaTechB/silva-md-bot/issues"
+        "url": "https://github.com/Viniznimco/SNAPDRAGON-JET-MD/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
