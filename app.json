@@ -1,14 +1,14 @@
 {
-  "name": "♻️𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿♻️",
-  "description": "This BOT was developed by 🅑r̸𝐢𝖌𝖍t̸_×͜×.",
+  "name": "📛 SNAPDRAGON JET-𝙈𝘿✈️",
+  "description": "This BOT was developed by MSNAPDRAGON.",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://i.imgur.com/hk3vZ9W.jpeg",
-  "repository": "https://github.com/Black-Tappy/Bumblebee-XMD",
+  "logo": "https://files.catbox.moe/xb17f0.jpg",
+  "repository": "https://github.com/Viniznimco/SNAPDRAGON-JET-MD",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -49,12 +49,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "𝘽𝙪𝙢𝙗𝙡𝙚𝙗𝙚𝙚-𝙓𝙈𝘿",
+      "value": "SNAPDRAGON JET-𝙈𝘿",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.imgur.com/hk3vZ9W.jpeg",
+      "value":"https://files.catbox.moe/xb17f0.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -80,12 +80,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "🅑r̸𝐢𝖌𝖍t̸_×͜×"
+      "value": "SNAPDRAGON"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "254759000340"
+      "value": "254704009677"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
@@ -110,7 +110,7 @@
     "AUTO_REACTION": {
       "description": "Put yes if you want the bot to react to messages in private",
       "required": false,
-      "value": "yes"
+      "value": "no"
     }
   },
   "formation": {
