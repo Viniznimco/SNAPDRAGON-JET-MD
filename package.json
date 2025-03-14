@@ -1,5 +1,5 @@
 {
-  "name": "ALPHA-MD",
+  "name": "SNAPDRAGON JET-MD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -13,12 +13,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Alpha-Md",
+    "Snapdragon-Md",
     "whatsapp",
     "whatsapp-bot",
-    "keithkeizzah"
+    "Msnapdragon"
   ],
-  "author": "keithkeizzah",
+  "author": "Msnapdragon",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
