@@ -74,6 +74,6 @@ module.exports = async (context) => {
     }
   } catch (error) {
     
-    return sendReply(client, m, `An error occurred: `);
+    return sendReply(client, m, `An error occurred boss: `);
   }
 };
