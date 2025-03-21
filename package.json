@@ -4,7 +4,7 @@
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name CASEYRHODES-XMD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name SNAPDRAGON JET-MD",
     "stop": "pm2 stop SNAPDRAGON JET-MD",
     "restart": "pm2 restart SNAPDRAGON JET-MD"
   },
