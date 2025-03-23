@@ -28,13 +28,13 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> *@ 💓 SNAPDRAGON JET MD 💓*`;
+> *@ 💎 ᴄᴀsᴇʏʀʜᴏᴅᴇs-xᴍᴅ 💎*`;
 
                                  return reply(wordInfo);
                              } catch (e) {
                                  console.log(e);
                                  if (e.response && e.response.status === 404) {
-                                     return reply("🚫💓 SNAPDRAGON JET MD 💓 Word not found. Please check the spelling and try again.");
+                                     return reply("🚫💎 ᴄᴀsᴇʏʀʜᴏᴅᴇs-xᴍᴅ 💎 Word not found. Please check the spelling and try again.");
                                  }
                                  return reply("⚠️ An error occurred while fetching the definition. Please try again later.");
                              }

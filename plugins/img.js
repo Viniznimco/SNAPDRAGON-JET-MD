@@ -3,45 +3,46 @@ const axios = require("axios");
 
 cmd({
     pattern: "img",
-    alias: ["pinterest", "image", "searchpin"],
-    react: "🔍",
-    desc: "Search and download Pinterest images using the API.",
+    alias: ["image"],
+    react: "🚀",
+    desc: "Search and download high-quality wallpapers using the new API.",
     category: "fun",
-    use: ".pin <keywords>",
+    use: ".img <keywords>",
     filename: __filename
 }, async (conn, mek, m, { reply, args, from }) => {
     try {
         const query = args.join(" ");
         if (!query) {
-            return reply("*❗ Please provide a search query.*");
+            return reply("*Please provide a search query.*");
         }
 
-        // Notify user that the request is being processed
-        await reply(`*🔎 Searching and downloading images for:* ${query}...`);
+        await reply(`*🔍 Fetching Images For:* ${query}...`);
 
-        const apiUrl = `https://api.diioffc.web.id/api/search/pinterest?query=${encodeURIComponent(query)}`;
-        const response = await axios.get(apiUrl);
+        const url = `https://sarkar-shaban.koyeb.app/download/wallpaper?text=${encodeURIComponent(query)}&page=1`;
+        const response = await axios.get(url);
 
-        // Validate the response and ensure results exist
+        // Validate response
         if (!response.data || !response.data.result || response.data.result.length === 0) {
-            return reply("*⚠️ No results found. Please try using different keywords.*");
+            return reply("*No results found. Please try another keyword.*");
         }
 
         const results = response.data.result;
 
-        // Randomly select up to 5 images from the results
-        const selectedImages = results.sort(() => 0.5 - Math.random()).slice(0, 5);
+        // Loop through results and send images
+        for (let i = 0; i < results.length; i++) {
+            const item = results[i];
 
-        // Send each selected image to the user
-        for (const image of selectedImages) {
-            await conn.sendMessage(
-                from,
-                {
-                    image: { url: image.src },
-                    caption: `*🔎 Results for:* ${query}\n\n> *Powered by Snapdragon Jet MD ✨*`
-                },
-                { quoted: mek }
-            );
+            if (item.image && item.image.length > 0) {
+                const imageUrl = item.image[0]; // Sending the first (highest quality) image
+                await conn.sendMessage(
+                    from,
+                    {
+                        image: { url: imageUrl },
+                        caption: `*🔹 Type:* ${item.type}\n*🌐 Source:* [Visit Website](${item.source})\n\n> *By CASEYRHODES XMD*`
+                    },
+                    { quoted: mek }
+                );
+            }
         }
     } catch (error) {
         console.error(error);
