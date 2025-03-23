@@ -16,16 +16,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *CASEYWEB*
+*|* *Viniznimco*
 
-> *CASEYWEB REPO:*
-*|* https://github.com/caseyweb/CASEYRHODES XMD
+> *Viniznimco REPO:*
+*|* https://github.com/Viniznimco/SNAPDRAGON-JET XMD
 
 > *SUPPORT GROUP:*
 *|* https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h
 *╰──────────────●●►*
 
-> *CREATED BY CASEYRHODES TECH*
+> *CREATED BY SNAPDRAGON-JET TECH*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -70,7 +70,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/caseyweb/CASEYRHODES-XMD';
+    const githubRepoURL = 'https://github.com/Viniznimco/SNAPDRAGON-JET-XMD';
 
     try {
         // Extract username and repo name from the URL
@@ -94,7 +94,7 @@ async (conn, mek, m, { from, reply }) => {
 
 > *ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟🍴*
 
-https://github.com/caseyweb/CASEYRHODES-XMD
+https://github.com/Viniznimco/SNAPDRAGON-JET-XMD
 ──────────────────
 ${readMore}
 \`BOT NAME:\`❄️
