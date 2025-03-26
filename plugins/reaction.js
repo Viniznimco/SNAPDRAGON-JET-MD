@@ -659,7 +659,7 @@ cmd(
                 ? `${sender} winked at @${mentionedUser.split("@")[0]}`
                 : isGroup
                 ? `${sender} is winking at everyone!`
-                : `> © Powᴇʀᴇᴅ Bʏᴇ ᴄᴀsᴇʏʀʜᴏᴅᴇs xMᴅ`;
+                : `> © Powᴇʀᴇᴅ Bʏ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽-𝙹𝙴𝚃-Mᴅ`;
 
             const apiUrl = "https://api.waifu.pics/sfw/wink";
             let res = await axios.get(apiUrl);
@@ -699,7 +699,7 @@ cmd(
                 ? `${sender} is happy with @${mentionedUser.split("@")[0]}`
                 : isGroup
                 ? `${sender} is happy with everyone!`
-                : `> © Powᴇʀᴇᴅ Bʏᴇ ᴄᴀsᴇʏʀʜᴏᴅᴇs xMᴅ`;
+                : `> © Powᴇʀᴇᴅ Bʏ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽-𝙹𝙴𝚃-𝙼ᴅ`;
 
             const apiUrl = "https://api.waifu.pics/sfw/happy";
             let res = await axios.get(apiUrl);
@@ -739,7 +739,7 @@ cmd(
                 ? `${sender} glomped @${mentionedUser.split("@")[0]}`
                 : isGroup
                 ? `${sender} is glomping everyone!`
-                : `> © Powᴇʀᴇᴅ Bʏᴇ ᴄᴀsᴇʏʀʜᴏᴅᴇs xMᴅ`;
+                : `> © Powᴇʀᴇᴅ Bʏᴇ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽-𝙹𝙴𝚃-Mᴅ`;
 
             const apiUrl = "https://api.waifu.pics/sfw/glomp";
             let res = await axios.get(apiUrl);
@@ -779,7 +779,7 @@ cmd(
                 ? `${sender} bit @${mentionedUser.split("@")[0]}`
                 : isGroup
                 ? `${sender} is biting everyone!`
-                : `> © Powᴇʀᴇᴅ Bʏᴇ ᴄᴀsᴇʏʀʜᴏᴅᴇs xMᴅ`;
+                : `> © Powᴇʀᴇᴅ Bʏ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽-𝙹𝙴𝚃-Mᴅ`;
 
             const apiUrl = "https://api.waifu.pics/sfw/bite";
             let res = await axios.get(apiUrl);
@@ -819,7 +819,7 @@ cmd(
                 ? `${sender} poked @${mentionedUser.split("@")[0]}`
                 : isGroup
                 ? `${sender} poked everyone`
-                : `> © Powᴇʀᴇᴅ Bʏᴇ ᴄᴀsᴇʏʀʜᴏᴅᴇs xMᴅ`;
+                : `> © Powᴇʀᴇᴅ Bʏ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽-𝙹𝙴𝚃-Mᴅ`;
 
             const apiUrl = "https://api.waifu.pics/sfw/poke";
             let res = await axios.get(apiUrl);
@@ -860,7 +860,7 @@ cmd(
                 ? `${sender} thinks @${mentionedUser.split("@")[0]} is cringe`
                 : isGroup
                 ? `${sender} finds everyone cringe`
-                : `> © Powᴇʀᴇᴅ Bʏᴇ ᴄᴀsᴇʏʀʜᴏᴅᴇs xMᴅ`;
+                : `> © Powᴇʀᴇᴅ Bʏ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽-𝙹𝙴𝚃-Mᴅ`;
 
             const apiUrl = "https://api.waifu.pics/sfw/cringe";
             let res = await axios.get(apiUrl);
@@ -901,7 +901,7 @@ cmd(
                 ? `${sender} danced with @${mentionedUser.split("@")[0]}`
                 : isGroup
                 ? `${sender} is dancing with everyone`
-                : `> © Powᴇʀᴇᴅ Bʏᴇ ᴄᴀsᴇʏʀʜᴏᴅᴇs xMᴅ`;
+                : `> © Powᴇʀᴇᴅ Bʏ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽-𝙹𝙴𝚃-Mᴅ`;
 
             const apiUrl = "https://api.waifu.pics/sfw/dance";
             let res = await axios.get(apiUrl);
@@ -946,7 +946,7 @@ cmd(
             } else if (isGroup) {
                 message = `${sender} killed everyone`;
             } else {
-                message = `> © Powᴇʀᴇᴅ Bʏᴇ ᴄᴀsᴇʏʀʜᴏᴅᴇs xMᴅ`;
+                message = `> © Powᴇʀᴇᴅ Bʏ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽-𝙹𝙴𝚃-Mᴅ`;
             }
 
             const apiUrl = "https://api.waifu.pics/sfw/kill";
@@ -990,7 +990,7 @@ cmd(
             } else if (isGroup) {
                 message = `${sender} slapped everyone`;
             } else {
-                message = `> © Powᴇʀᴇᴅ Bʏᴇ ᴄᴀsᴇʏʀʜᴏᴅᴇs xMᴅ`;
+                message = `> © Powᴇʀᴇᴅ Bʏ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽-𝙹𝙴𝚃-Mᴅ`;
             }
 
             const apiUrl = "https://api.waifu.pics/sfw/slap";
@@ -1034,7 +1034,7 @@ cmd(
             } else if (isGroup) {
                 message = `${sender} kissed everyone`;
             } else {
-                message = `> © Powᴇʀᴇᴅ Bʏᴇ ᴄᴀsᴇʏʀʜᴏᴅᴇs xMᴅ`;
+                message = `> © Powᴇʀᴇᴅ Bʏ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽-𝙹𝙴𝚃-Mᴅ`;
             }
 
             const apiUrl = "https://api.waifu.pics/sfw/kiss";
