@@ -63,7 +63,7 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: 'ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ ᴀɪ🤖',
+                    newsletterName: 'SNAPDRAGON-JET MD ᴀɪ🤖',
                     serverMessageId: 143
                 }
             }
@@ -138,7 +138,7 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: 'ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ ᴀɪ 🤖',
+                    newsletterName: 'SNAPDRAGON-JET MD ᴀɪ 🤖',
                     serverMessageId: 143
                 }
             }
