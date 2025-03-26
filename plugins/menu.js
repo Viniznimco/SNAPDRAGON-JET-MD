@@ -8,18 +8,18 @@ cmd({
     pattern: "menu",
     desc: "menu the bot",
     category: "menu",
-    react: "🐇",
+    react: "🚁",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━━《 *𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐗𝐌𝐃* 》━━━┈⊷
+        let dec = `╭━━━《 *𝐒𝐍𝐀𝐏𝐃𝐑𝐀𝐆𝐎𝐍-𝐉𝐄𝐓-𝐌𝐃* 》━━━┈⊷
 ┃❍⁠⁠⁠⁠╭──────────────
 ┃❍⁠⁠⁠⁠│▸  *Usᴇʀ* : ${config.OWNER_NAME}
 ┃❍⁠⁠⁠⁠│▸  *ʙᴀɪʟᴇʏs* : 𝐌𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞
 ┃❍⁠⁠⁠⁠│▸  *𝖳ʏᴘᴇ* : 𝐍𝐨𝐝𝐞𝐣𝐬
 ┃❍⁠⁠⁠⁠│▸  *ᴘʟᴀᴛғᴏʀᴍ* : 𝐇𝐞𝐫𝐨𝐤𝐮
-┃❍⁠⁠⁠⁠│▸  *𝖣ᴇᴠᴇʟᴏᴘᴇʀ* : ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ
+┃❍⁠⁠⁠⁠│▸  *𝖣ᴇᴠᴇʟᴏᴘᴇʀ* : 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽 ᴛᴇᴄʜ
 ┃❍⁠⁠⁠⁠│▸  *𝖬ᴏᴅᴇ* : [${config.MODE}]
 ┃❍⁠⁠⁠⁠│▸  *𝖯ʀᴇғɪx* : [${config.PREFIX}]
 ┃❍⁠⁠⁠⁠│▸  *𝖵ᴇʀsɪᴏɴ* : 𝟏.𝟎.𝟎
@@ -60,7 +60,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: '𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒-𝐗𝐌𝐃👻⚡',
+                        newsletterName: '𝐒𝐍𝐀𝐏𝐃𝐑𝐀𝐆𝐎𝐍-𝐉𝐄𝐓-𝐌𝐃👻⚡',
                         serverMessageId: 143
                     }
                 }
@@ -142,7 +142,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD💖🦄',
+                        newsletterName: '𝑆𝑁𝐴𝑃𝐷𝑅𝐴𝐺𝑂𝑁-𝐽𝐸𝑇-𝑀𝐷💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -220,7 +220,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝑆𝑁𝐴𝑃𝐷𝑅𝐴𝐺𝑂𝑁-𝐽𝐸𝑇-𝑀𝐷 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -286,7 +286,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝖲𝖭𝖠𝖯𝖣𝖱𝖠𝖦𝖮𝖭-𝖩𝖤𝖳-MD 💖🦄',
                         serverMessageId: 144
                     }
                 }
@@ -357,7 +357,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝖲𝖭𝖠𝖯𝖣𝖱𝖠𝖦𝖮𝖭-𝖩𝖤𝖳-MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -421,7 +421,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD',
+                        newsletterName: '𝖲𝖭𝖠𝖯𝖣𝖱𝖠𝖦𝖮𝖭-𝖩𝖤𝖳-MD',
                         serverMessageId: 143
                     }
                 }
@@ -480,7 +480,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝖲𝖭𝖠𝖯𝖣𝖱𝖠𝖦𝖮𝖭-𝖩𝖤𝖳-MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -532,7 +532,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝖲𝖭𝖠𝖯𝖣𝖱𝖠𝖦𝖮𝖭-𝖩𝖤𝖳-MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -576,7 +576,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• ping 
 ┃◈┃• gjid
 ┃◈┃• jid
-┃◈┃• casey
+┃◈┃• viniz
 ┃◈┃• tinyurl 
 ┃◈┃• bibelist
 ┃◈┃• get
@@ -598,7 +598,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝖲𝖭𝖠𝖯𝖣𝖱𝖠𝖦𝖮𝖭-𝖩𝖤𝖳-MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -647,7 +647,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝖲𝖭𝖠𝖯𝖣𝖱𝖠𝖦𝖮𝖭-𝖩𝖤𝖳-MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -716,7 +716,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝖲𝖭𝖠𝖯𝖣𝖱𝖠𝖦𝖮𝖭-𝖩𝖤𝖳-MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -767,7 +767,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝖲𝖭𝖠𝖯𝖣𝖱𝖠𝖦𝖮𝖭-𝖩𝖤𝖳-MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
