@@ -67,7 +67,7 @@ ${translatedTafsirEnglish.text}`;
           isForwarded: true,   
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363302677217436@newsletter', 
-            newsletterName: '𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐐𝐔𝐑𝐀𝐍', 
+            newsletterName: '𝐒𝐍𝐀𝐏𝐃𝐑𝐀𝐆𝐎𝐍 𝐐𝐔𝐑𝐀𝐍', 
             serverMessageId: 143
           }
         }
@@ -457,7 +457,7 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363302677217436@newsletter',
-                        newsletterName: '𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐐𝐔𝐑𝐀𝐍',
+                        newsletterName: '𝐒𝐍𝐀𝐏𝐃𝐑𝐀𝐆𝐎𝐍 𝐐𝐔𝐑𝐀𝐍',
                         serverMessageId: 143
                     }
                 }
