@@ -39,7 +39,7 @@ ${truncatedCode}
 \`\`\`
 ╰──────────⊷  
 ⚡ Full file sent below 📂  
-pσwєrєd вч *cαѕєчrhσdєѕ хtєch* 💜`;
+pσwєrєd вч *snapdragon хtєch* 💜`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
