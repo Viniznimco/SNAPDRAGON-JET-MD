@@ -38,7 +38,7 @@ cmd({
                     from,
                     {
                         image: { url: imageUrl },
-                        caption: `*🔹 Type:* ${item.type}\n*🌐 Source:* [Visit Website](${item.source})\n\n> *By CASEYRHODES XMD*`
+                        caption: `*🔹 Type:* ${item.type}\n*🌐 Source:* [Visit Website](${item.source})\n\n> *By SNAPDRAGON-JET-MD*`
                     },
                     { quoted: mek }
                 );
