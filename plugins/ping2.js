@@ -34,7 +34,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
         const responseTime = (end - start); // Response time in milliseconds
 
         // VIP style speed response
-        const text = `*CASEYRHODES-XMD SERVER SPEED:* 🐦‍🔥  
+        const text = `*SNAPDRAGON-JET-MD SERVER SPEED:* 🐦‍🔥  
 🚀 *Response Time:* ${responseTime}ms ${reactionEmoji}  
 👑 *Status:* Ultra-Fast 🦅`;
 
