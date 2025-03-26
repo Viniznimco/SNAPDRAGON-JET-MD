@@ -36,14 +36,14 @@ async (conn, mek, m, {
 
     const imageMessage = {
       image: { url: screenshotUrl },
-      caption: "*📸 WEB SCREENSHOT DOWNLOADER*\n\n> *© Powered By CASEYRHODES*",
+      caption: "*📸 WEB SCREENSHOT DOWNLOADER*\n\n> *© Powered By 𝘚𝘕𝘈𝘗𝘋𝘙𝘈𝘎𝘖𝘕*",
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363302677217436@newsletter',
-          newsletterName: "CASEYRHODES XMD",
+          newsletterName: "𝘚𝘕𝘈𝘗𝘋𝘙𝘈𝘎𝘖𝘕-𝘑𝘌𝘛-MD",
           serverMessageId: 143,
         },
       },
