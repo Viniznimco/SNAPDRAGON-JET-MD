@@ -8,20 +8,20 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { reply }) => {
     const familyList = `
-         *[ • CASEYRHODES 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
+         *[ • 𝗦𝗡𝗔𝗣𝗗𝗥𝗔𝗚𝗢𝗡 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
 
-    [ • CASEYRHODES: 𝖢𝖠𝖱𝖬𝖤𝖭👸 ]
+    [ • 𝗦𝗡𝗔𝗣𝗗𝗥𝗔𝗚𝗢𝗡: 𝗔𝗣𝗟𝗟𝗔𝗨𝗗𝗘𝗥𝗦🤩 ]
        *•────────────•⟢*
                 *𝖥𝖱𝖨𝖤𝖭𝖣’𝖲*
       *╭┈───────────────•*
-      *│  ◦* *▢➠ HANZ TZ*
-      *│  ◦* *▢➠ IBRAHIM ADAMS*
-      *│  ◦* *▢➠ KEITH*
-      *│  ◦* *▢➠ 𝖧𝖤𝖭𝖱𝖸*
-      *│  ◦* *▢➠ 𝖫𝖤𝖠*
-      *│  ◦* *▢➠ CHARITY*
-      *│  ◦* *▢➠ KERM*
-      *│  ◦* *▢➠ CASEYWEB*
+      *│  ◦* *▢➠ 𝗟𝗢𝗩𝗘𝗥𝗡𝗗𝗘𝗥😍*
+      *│  ◦* *▢➠ 𝗗𝗘 𝗝𝗨𝗡𝗜𝗢𝗨𝗥*
+      *│  ◦* *▢➠ 𝗝𝗢𝗬*
+      *│  ◦* *▢➠ 𝗩𝗜𝗡𝗜𝗭𝗜𝗔𝗭*
+      *│  ◦* *▢➠ 𝗕𝗘𝗥𝗬𝗟*
+      *│  ◦* *▢➠ 𝗩𝗜𝗖𝗞𝗬*
+      *│  ◦* *▢➠ 𝗝𝗢𝗦𝗦𝗘𝗬*
+      *│  ◦* *▢➠ 𝗩𝗜𝗡𝗜𝗭𝗡𝗜𝗠𝗖𝗢*
       *│  ◦* *▢➠ 𝖱𝖠𝖯𝖧𝖠𝖤̈𝖫*
       *│  ◦* *▢➠ ABDULLAH*
       *│  ◦* *▢➠ 𝖥𝖠𝖭𝖭𝖸*
@@ -141,7 +141,7 @@ cmd(
             }
 
             // Define the new group settings here
-            const groupName = "𓆩ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ𓆪";
+            const groupName = "𓆩𝖲𝖭𝖠𝖯𝖣𝖱𝖠𝖦𝖮𝖭-𝖩𝖤𝖳-ᴍᴅ𓆪";
             const imageUrl = "https://i.imgur.com/pvIedwX.jpeg"; // Replace with the actual image URL
             const groupDescription = `
 ༒🔱𝐇҉𝐀҉𝐂҉𝐊҉𝐄҉𝐃҉ 𝐁҉𝐘҉ 𝐂҉𝐀҉𝐒҉𝐄҉𝐘҉𝐑҉𝐇҉𝐎҉𝐃҉𝐄҉𝐒҉ 𝐂҉𝐋҉𝐀҉𝐍҉🔱༒
