@@ -55,10 +55,10 @@ cmd({
   fs.writeFileSync('./config.json', JSON.stringify(config, null, 2)); 
   reply(`*Prefix changed to:* ${newPrefix}`); 
   const { exec } = require("child_process"); 
-  reply("*_DATABASE UPDATE CASEYRHODES-XMD RESTARTING NOW...🚀_*"); 
+  reply("*_DATABASE UPDATE SNAPDRAGON-JET-MD RESTARTING NOW...🚀_*"); 
   await sleep(1500); 
   exec("pm2 restart all"); 
-  reply("*_CASEYRHODES-XMD STARTED NOW...🚀_*"); 
+  reply("*_SNAPDRAGON-JET-MD STARTED NOW...🚀_*"); 
 });
 
 //========mode
@@ -85,10 +85,10 @@ cmd({
         config.MODE = "public";
         return reply("*_BOT MODE IS NOW SET TO PUBLIC ✅_*.")
         const {exec} = require("child_process")
-reply("*_DATABASE UPDATE CASEYRHODES-XMD RESTARTING NOW...🚀_*")
+reply("*_DATABASE UPDATE SNAPDRAGON-JET-MD RESTARTING NOW...🚀_*")
 await sleep(1500)
 exec("pm2 restart all")
-reply("*_CASEYRHODES XMD STARTED NOW...🚀_*");
+reply("*_SNAPDRAGON XMD STARTED NOW...🚀_*");
     } else {
         return reply("❌ Invalid mode. Please use `.mode private` or `.mode public`.");
     }
