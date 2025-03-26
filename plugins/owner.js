@@ -30,7 +30,7 @@ async (conn, mek, m, { from }) => {
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/csqzca.jpg' }, // Image URL from your request
-            caption: `╭━━〔 *𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐓𝐄𝐂𝐇* 〕━━┈⊷
+            caption: `╭━━〔 *𝐒𝐍𝐀𝐏𝐃𝐑𝐀𝐆𝐎𝐍 𝐓𝐄𝐂𝐇* 〕━━┈⊷
 ┃❍╭─────────────·๏
 ┃❍┃• *Here is the owner details*
 ┃❍┃• *ɴᴀᴍᴇ* - ${ownerName}
@@ -38,14 +38,14 @@ async (conn, mek, m, { from }) => {
 ┃❍┃• *𝖵ᴇʀsɪᴏɴ*: 1.0.0
 ┃❍└───────────┈⊷
 ╰──────────────┈⊷
-> ©ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ`, // Display the owner's details
+> ©𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽 ᴛᴇᴄʜ`, // Display the owner's details
             contextInfo: {
                 mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`], 
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: 'CASEYRHODES XMD DEVELOPERS🥰💖🥰',
+                    newsletterName: 'SNAPDRAGON-JET-MD DEVELOPERS🥰💖🥰',
                     serverMessageId: 143
                 }            
             }
