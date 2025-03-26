@@ -67,7 +67,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: "120363302677217436@newsletter",
-          newsletterName: "CASEYRHODES XMD",
+          newsletterName: "𝖲𝖭𝖠𝖯𝖣𝖱𝖠𝖦𝖮𝖭-𝖩𝖤𝖳-MD",
           serverMessageId: 143
         }
       }
@@ -92,7 +92,7 @@ cmd({
           case "1":
             await conn.sendMessage(senderID, {
               video: { url: downloadLink },
-              caption: "*CASEYRHODES XMD*"
+              caption: "*SNAPDRAGON-JET-MD*"
             }, { quoted: receivedMsg });
             break;
 
@@ -101,7 +101,7 @@ cmd({
               document: { url: downloadLink },
               mimetype: "video/mp4",
               fileName: `${ytData.title}.mp4`,
-              caption: "*CASEYRHODES-XMD*"
+              caption: "*SNAPDRAGON-JET-MD*"
             }, { quoted: receivedMsg });
             break;
 
