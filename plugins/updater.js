@@ -17,10 +17,10 @@ cmd({
   }  
 
   try {  
-    await reply("```🔍 Checking for CASEYRHODES-XMD updates...```\n");  
+    await reply("```🔍 Checking for SNAPDRAGON-JET-MD updates...```\n");  
       
     // Get latest commit from GitHub  
-    const { data: commitData } = await axios.get("https://api.github.com/repos/caswyweb/CASEYRHODES-XMD/commits/main");  
+    const { data: commitData } = await axios.get("https://api.github.com/repos/Viniznimco/SNAPDRAGON-JET-MD/commits/main");  
     const latestCommitHash = commitData.sha;  
 
     // Get current commit hash  
@@ -33,14 +33,14 @@ cmd({
     }  
 
     if (latestCommitHash === currentHash) {  
-      return reply("```✅ Your CASEYRHODES-XMD bot is already up-to-date!```\n");  
+      return reply("```✅ Your SNAPDRAGON-JET-MD bot is already up-to-date!```\n");  
     }  
 
-    await reply("```CASEYRHODES-XMD Bot Updating...🚀```\n");  
+    await reply("```SNAPDRAGON-JET-MD Bot Updating...🚀```\n");  
       
     // Download latest code  
     const zipPath = path.join(__dirname, "latest.zip");  
-    const { data: zipData } = await axios.get("https://github.com/caseyweb/CASEYRHODES-XMD/archive/main.zip", { responseType: "arraybuffer" });  
+    const { data: zipData } = await axios.get("https://github.com/Viniznimco/SNAPDRAGON-JET-MD/archive/main.zip", { responseType: "arraybuffer" });  
     fs.writeFileSync(zipPath, zipData);  
 
     await reply("```📦 Extracting the latest code...```\n");  
