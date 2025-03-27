@@ -1,7 +1,7 @@
 {
-  "name": "SNAPDRAGON JET-MD",
+  "name": "SNAPDRAGON-JET-MD",
   "description": "Javascript WhatsApp bot made by SNAPDRAGON.",
-  "keywords": ["SNAPDRAGON JET-MD"],
+  "keywords": ["SNAPDRAGON-JET-MD"],
   
   
   "logo": "https://files.catbox.moe/xb17f0.jpg",
@@ -25,7 +25,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> SNAPDRAGON JET-MD IS ACTIVE AND ALIVE⚡"
+      "value": "> SNAPDRAGON-JET-MD IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -82,7 +82,7 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*✈️ sᴇᴇɴ ʙʏ SNAPDRAGON JET ᴍᴅ🚀🛩️*"
+      "value": "*✈️ sᴇᴇɴ ʙʏ SNAPDRAGON-JET-ᴍᴅ🚀🛩️*"
     }, 
 
     "OWNER_NAME": {
@@ -100,7 +100,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ SNAPDRAGON JET MD✦"
+      "value": "✦ SNAPDRAGON-JET-MD✦"
 
       }, 
 
@@ -120,7 +120,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✦SNAPDRAGON JET MD✦*"
+      "value": "*© ✦SNAPDRAGON-JET-MD✦*"
     },
 
       "DELETE_LINKS": {
