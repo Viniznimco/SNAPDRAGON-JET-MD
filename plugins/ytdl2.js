@@ -54,7 +54,7 @@ cmd({
             document: { url: data.result.download_url }, 
             mimetype: "video/mp4", 
             fileName: `${data.result.title}.mp4`, 
-            caption: `*${yts.title}*\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs🎐*`
+            caption: `*${yts.title}*\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽🎐*`
         }, { quoted: mek });
 
     } catch (e) {
@@ -92,7 +92,7 @@ const yt = await ytsearch(q);
     
     let ytmsg = `╔═══〔 *𓆩ု᪳𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒-𝐗𝐌𝐃ှ᪳𓆪* 〕═══❒
 ║╭───────────────◆  
-║│ *𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐒𝐌Ɗ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐈𝐍𝐆*
+║│ *𝐒𝐍𝐀𝐏𝐃𝐑𝐀𝐆𝐎𝐍-𝐉𝐄𝐓-𝐌Ɗ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐈𝐍𝐆*
 ║╰───────────────◆
 ╚══════════════════❒
 ╔══════════════════❒
@@ -117,7 +117,7 @@ const yt = await ytsearch(q);
         document: { url: data.result.downloadUrl }, 
         mimetype: "audio/mpeg", 
         fileName: `${data.result.title}.mp3`, 
-        caption: `> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs🎐*`
+        caption: `> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝚂𝙽𝙰𝙿𝙳𝚁𝙰𝙶𝙾𝙽🎐*`
     }, { quoted: mek });
 
 } catch (e) {
