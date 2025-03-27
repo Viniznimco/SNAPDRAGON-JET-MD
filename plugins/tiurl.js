@@ -37,7 +37,7 @@ cmd({
   try {
     if (!q) return reply('Please provide a URL to shorten.');
 
-    await reply('> *CASEYRHODES-XMD is Processing...*');
+    await reply('> *SNAPDRAGON-JET-MD is Processing...*');
 
     let apiUrl = '';
     if (command === 'tiny' || command === 'tinyurl') {
@@ -51,7 +51,7 @@ cmd({
     const response = await fetchJson(apiUrl);
     const result = response.result;
 
-    const caption = ` \`CASEYRHODES XMD URL SHORTENER\` \n\n\n*Original Link:* ${q}\n\n*Shortened Link:* ${result}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ caseyrhodes`;
+    const caption = ` \`SNAPDRAGON-JET-MD URL SHORTENER\` \n\n\n*Original Link:* ${q}\n\n*Shortened Link:* ${result}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ snapdragon`;
 
    /* await conn.sendMessage(m.chat, { text: caption }, { quoted: m });
   } catch (error) {
@@ -70,7 +70,7 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: '『 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐗𝐌𝐃 』',
+                    newsletterName: '『 𝐒𝐍𝐀𝐏𝐃𝐑𝐀𝐆𝐎𝐍-𝐉𝐄𝐓-𝐌𝐃 』',
                     serverMessageId: 143
                 }
             }
